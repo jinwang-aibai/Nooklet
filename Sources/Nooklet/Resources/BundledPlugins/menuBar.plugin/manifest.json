@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.menu-bar",
+  "version": "1.0.0",
+  "name": "隐藏菜单栏图标",
+  "description": "整理菜单栏图标，按需展开隐藏的应用。",
+  "template": "menuBar"
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.homebrew",
+  "version": "1.0.0",
+  "name": "Homebrew 管理",
+  "description": "管理 Formula、Cask 和软件源，并查看诊断输出。",
+  "template": "homebrew"
+}

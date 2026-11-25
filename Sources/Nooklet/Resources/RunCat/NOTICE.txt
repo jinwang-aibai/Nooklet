@@ -1,0 +1,3 @@
+RunCat animation frames by Kyome22 (Takuto Nakamura), from menubar_runcat.
+https://github.com/Kyome22/menubar_runcat/tree/82747b139cc32e13a7b713f8521f44c70317f7d4
+Apache License, Version 2.0. The PNGs are reproduced from MacTools' RunCat Cat B asset.

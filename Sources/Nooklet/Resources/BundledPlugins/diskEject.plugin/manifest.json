@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.disk-eject",
+  "version": "1.0.0",
+  "name": "磁盘推出",
+  "description": "安全推出外接磁盘和已挂载的磁盘映像。",
+  "template": "diskEject"
+}

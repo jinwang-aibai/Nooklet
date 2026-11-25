@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.lan-share",
+  "version": "1.0.0",
+  "name": "内网文件共享",
+  "description": "让同一局域网内的设备通过链接访问本地文件、文件夹或文本。",
+  "template": "lanShare"
+}

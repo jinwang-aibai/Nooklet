@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.example.compact-status",
+  "version": "1.0.0",
+  "name": "快捷状态",
+  "description": "打开菜单栏状态显示设置。",
+  "template": "systemStatus"
+}

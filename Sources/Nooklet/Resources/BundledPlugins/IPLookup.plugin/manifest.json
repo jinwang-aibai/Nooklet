@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.ip",
+  "version": "1.0.0",
+  "name": "IP 检测",
+  "description": "查看本机网卡地址，按需查询公网 IP。",
+  "template": "ipLookup"
+}

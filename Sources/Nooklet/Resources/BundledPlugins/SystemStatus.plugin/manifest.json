@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.system-status",
+  "version": "1.0.0",
+  "name": "系统状态",
+  "description": "查看 CPU、内存、磁盘和电池。",
+  "template": "systemStatus"
+}

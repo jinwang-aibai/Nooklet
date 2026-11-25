@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.diagnostics",
+  "version": "1.0.0",
+  "name": "应用打开诊断",
+  "description": "暂未开放。",
+  "template": "appDiagnostics"
+}

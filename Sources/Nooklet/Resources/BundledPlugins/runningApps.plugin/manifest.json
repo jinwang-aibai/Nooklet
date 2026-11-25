@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.running-apps",
+  "version": "1.0.0",
+  "name": "退出应用",
+  "description": "查看正在运行的应用，并请求应用正常退出。",
+  "template": "runningApps"
+}

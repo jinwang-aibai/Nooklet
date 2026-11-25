@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.storage",
+  "version": "1.0.0",
+  "name": "存储空间分析",
+  "description": "选择文件夹，找出最占空间的项目。",
+  "template": "storageAnalysis"
+}

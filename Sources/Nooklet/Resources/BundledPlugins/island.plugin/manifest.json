@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.island",
+  "version": "1.0.0",
+  "name": "灵动岛",
+  "description": "在屏幕顶部显示所选状态。",
+  "template": "island"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>Nooklet 右键工具</string>
+	<key>CFBundleExecutable</key>
+	<string>NookletFinderExtension</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.local.Nooklet.FinderExtension</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Nooklet 右键工具</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict/>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.FinderSync</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>NookletFinderExtension.FinderSync</string>
+	</dict>
+</dict>
+</plist>

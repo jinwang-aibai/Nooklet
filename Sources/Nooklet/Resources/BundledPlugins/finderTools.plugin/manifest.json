@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "hostAPIVersion": 1,
+  "id": "local.nooklet.finder",
+  "version": "1.1.0",
+  "name": "Finder 右键工具",
+  "description": "选择 Finder 右键菜单显示的命令，并管理「用应用打开」的应用列表。",
+  "template": "finderTools"
+}
